@@ -6,7 +6,6 @@
 
 ## ✨ Features
 
-- **Navigation Bar**: Responsive navigation bar that collapses into a hamburger menu on smaller screens.
 - **Smooth Scrolling**: Navigation links enable smooth scrolling to different sections of the page.
 - **Section Reveal**: Sections are revealed as the user scrolls, creating a dynamic and engaging experience.
 - **Tabbed Component**: Tabbed interface allows users to switch between different banking services.
